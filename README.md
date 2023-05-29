@@ -11,3 +11,8 @@ The music files are played by the programme using the Pygame mixer, and the grap
 - Pause button -> stops the song that is now playing. 
 - Stop button: ends the song that is playing.
 - The user can move to the next or previous track in the list using the next and previous buttons.
+
+
+## Connect with me
+- [GitHub](https://github.com/T-Nikhilesh)
+- [LinkedIn](https://www.linkedin.com/in/t-nikhilesh-416386242/)
